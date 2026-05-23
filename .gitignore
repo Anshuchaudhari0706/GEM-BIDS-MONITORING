@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.wdm/
+venv/
+.venv/
+env/
+.env
+gem_source*.html
+test_gem_date_filter.py
